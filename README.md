@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The setup download for me took much longer than everyone else, leaving me very little time to work on the extra credit. :(
+Setting up Android Studio took me a very long time, leaving me little time to work on the extra credit (Sorry!). Additionally, getting the button / text boxes to show up in the proper location was difficult (the way I had stuff alligned on my computer was different from how it showed up on the phone).
 
 ## License
 
